@@ -11,4 +11,5 @@ numero_de_entradas_sin_descuento <- numero_de_entradas_que_se_cobraran – numer
 subtotal <- (numero_de_entradas_sin_descuento * costo_de_entrada) + (numero_de_cupones * costo_de_entrada_con_descuento)
 total <- subtotal * 0.85
 escribir total
+fin
 ```
