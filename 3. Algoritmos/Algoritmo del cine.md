@@ -1,3 +1,4 @@
+## Algoritmo del cine
 > Datos de entrada
 * Costo de la entrada
 * Número de entradas
